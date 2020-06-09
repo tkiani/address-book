@@ -1,0 +1,16 @@
+#home:hover, #add:hover, #delete:hover, #update:hover{
+cursor: pointer;
+}
+
+#add-form{
+    margin-top: 2%;
+}
+
+#submit-btn{
+    margin-bottom: 2%;
+}
+
+.navbar-brand img{
+    height: 40px;
+    width: 40px;
+}
